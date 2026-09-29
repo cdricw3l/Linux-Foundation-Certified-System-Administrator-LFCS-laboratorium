@@ -1,4 +1,4 @@
-# Certified
+# Certified 82/100
 
 ![Texte alternatif](lfcs-linux-foundation-certified-systems-administrat.png)
 
